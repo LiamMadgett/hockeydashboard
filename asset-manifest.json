@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hockeydashboard/static/css/main.01b5848c.css",
+    "main.js": "/hockeydashboard/static/js/main.80b094ac.js",
+    "index.html": "/hockeydashboard/index.html",
+    "main.01b5848c.css.map": "/hockeydashboard/static/css/main.01b5848c.css.map",
+    "main.80b094ac.js.map": "/hockeydashboard/static/js/main.80b094ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01b5848c.css",
+    "static/js/main.80b094ac.js"
+  ]
+}
